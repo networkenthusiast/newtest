@@ -1,2 +1,2 @@
 this is a test for push demo ==> 1st commit
-this line will be present in master branch only ===> 2nd commit for feature specific to master branch
+this line will be present in feature x branch only ===> 2nd commit for feature specific to master branch
