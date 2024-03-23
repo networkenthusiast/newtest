@@ -1,6 +1,1 @@
-this is a test for push demo ==> 1st commit
-this line will be present in main branch only ===> 12th commit for feature specific to main
-<<<<<<< HEAD
-=======
-this line will be present in feature x branch only ===>13th commit for feature specific to featureX branch
->>>>>>> featureX
+1st commit after merge
