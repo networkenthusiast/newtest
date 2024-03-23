@@ -1,2 +1,6 @@
 this is a test for push demo ==> 1st commit
+<<<<<<< HEAD
 this line will be present in main branch only ===> 9th commit for feature specific to main
+=======
+this line will be present in feature x branch only ===> 10th commit for feature specific to featureX branch
+>>>>>>> featureX
