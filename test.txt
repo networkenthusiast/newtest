@@ -1,6 +1,3 @@
 1st commit after merge
 2nd commit in featureX
-<<<<<<< HEAD
-=======
 3rd commit in featureX branch only ==> consider this
->>>>>>> featureX
